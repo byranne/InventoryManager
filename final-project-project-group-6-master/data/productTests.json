@@ -1,0 +1,80 @@
+[
+    {
+        "price": 19.99,
+        "productID": 1001,
+        "productName": "Generic Product",
+        "productType": "GENERAL",
+        "stock": 12
+    },
+    {
+        "expirationDate": "2025-10-01",
+        "price": 0.99,
+        "productID": 1002,
+        "productName": "Apple",
+        "productType": "FOOD",
+        "stock": 50
+    },
+    {
+        "clothingType": "Casual",
+        "color": "Blue",
+        "gender": "Unisex",
+        "price": 15.99,
+        "productID": 1003,
+        "productName": "T-Shirt",
+        "productType": "CLOTHES",
+        "size": "M",
+        "stock": 20
+    },
+    {
+        "price": 5.49,
+        "productID": 1004,
+        "productName": "Notebook",
+        "productType": "GENERAL",
+        "stock": 30
+    },
+    {
+        "expirationDate": "2026-01-15",
+        "price": 2.79,
+        "productID": 1005,
+        "productName": "Banana",
+        "productType": "FOOD",
+        "stock": 40
+    },
+    {
+        "clothingType": "Formal",
+        "color": "Black",
+        "gender": "Men",
+        "price": 49.99,
+        "productID": 1006,
+        "productName": "Dress Pants",
+        "productType": "CLOTHES",
+        "size": "L",
+        "stock": 10
+    },
+    {
+        "price": 12.00,
+        "productID": 1007,
+        "productName": "Water Bottle",
+        "productType": "GENERAL",
+        "stock": 25
+    },
+    {
+        "expirationDate": "2025-12-20",
+        "price": 3.49,
+        "productID": 1008,
+        "productName": "Orange Juice",
+        "productType": "FOOD",
+        "stock": 35
+    },
+    {
+        "clothingType": "Athletic",
+        "color": "Red",
+        "gender": "Women",
+        "price": 29.99,
+        "productID": 1009,
+        "productName": "Running Shorts",
+        "productType": "CLOTHES",
+        "size": "S",
+        "stock": 18
+    }
+]
